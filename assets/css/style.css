@@ -127,6 +127,20 @@ body {
     padding: 70px 0px 40px;
 }
 
+.k{
+    color: white;
+    font-family: 'Poppins';
+    border-radius: 20px;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 14px;
+    background-color: rgb(7, 31, 127);
+    border: none;
+    display: flex;
+    flex-direction: center;
+    cursor: pointer;
+}
+
 /*--------------------------------------------------------------
 # Beranda
 --------------------------------------------------------------*/
